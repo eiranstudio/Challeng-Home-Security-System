@@ -34,7 +34,7 @@ To design, build, and simulate a cost-effective, remotely monitored home securit
 ## 4. System Design
 
 **Block Diagram:**  
-![System Diagram]()
+![System Diagram](https://github.com/eiranstudio/Challeng-Home-Security-System/blob/master/Challenge%20Home%20Security%20System.png)
 
 **Hardware Components:**
 - Arduino UNO (microcontroller)
@@ -62,7 +62,7 @@ To design, build, and simulate a cost-effective, remotely monitored home securit
 Sensors and actuators are connected to the Arduino UNO according to the block diagram. The code initializes all components, continuously reads sensor values, and executes actions (e.g., alarm, sprinkler) when thresholds are exceeded.
 
 **Circuit Diagram / Wiring Image:**  
-See [System Diagram]()
+See [System Diagram](https://github.com/eiranstudio/Challeng-Home-Security-System/blob/master/Challenge%20Home%20Security%20System.png)
 
 **Key Code Snippet:**
 ```cpp
@@ -107,7 +107,7 @@ void loop() {
 
 **Pictures of Prototype:**  
 As this is a simulation-based project, a functional prototype image is available in the repo:  
-![Prototype]()
+![Prototype](https://github.com/eiranstudio/Challeng-Home-Security-System/blob/master/Screenshotofworkingsystem.png)
 
 ---
 
