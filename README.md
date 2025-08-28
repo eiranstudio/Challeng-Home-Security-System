@@ -1,8 +1,8 @@
-## 1.Student Name, Title, Date
+## 1.Student Name, Title, Date 📚🔒🔧
 
 | Student Name | Title | Date |
 | --- | --- | --- |
-| Irankunda Ezechiel | Home Security System Challenge | 28/08/2025 |
+| Irankunda Ezechiel | Home Security System Challenge 📚🔒🔧 | 28/08/2025 |
 
 ## 2. Introduction
 
