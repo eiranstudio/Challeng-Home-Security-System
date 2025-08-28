@@ -120,7 +120,7 @@ As this is a simulation-based project, a functional prototype image is available
 - All events are displayed on the LCD and can be monitored remotely (in simulation).
 
 **Screenshots of the Working System:**  
-See the image above or run the [Tinkercad simulation](https://www.tinkercad.com/things/1XtbIEpOgQz).
+See the image above
 
 ---
 
